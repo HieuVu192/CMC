@@ -1,0 +1,22 @@
+STT:	1
+Type:	IBM X3650 M4
+Label: 
+Bought Date:
+Service:	TGTT
+Serial number:	06FGNCR
+Config: 
+		CPU: 	2 x Intel® Xeon® 6-Core Processor E5-2620 V2, 2.0GHz, 15MB, LGA2011
+		HDD: 	2 x 600GB IBM  SAS 6GB/S 10K RPM 64M 2.5
+           		2 x IBM 1TB 2.5in SFF HS 7.2K 6Gbps NL SAS HDD
+		RAM:	4 x 8GB PC3L-10600 CL9 ECC DDR3 1333MHz
+           		4 x 16GB PC3-12800 ECC 1600MHz
+           		8 x 8GB
+        NIC: 	Four integrated Gigabit Ethernet
+Power:	2 x 550W
+IP:	10.54.132.65
+Maps: U13,14 Rack 2-4
+Sysadmin: HieuVT
+Price:	
+Contract DC Number:	
+Contract Provider Number:	
+Note:	
